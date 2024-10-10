@@ -6,3 +6,5 @@
 npm i
 npm run dev
 ```
+
+Деплой через vercel: https://todos-deploy.vercel.app/
