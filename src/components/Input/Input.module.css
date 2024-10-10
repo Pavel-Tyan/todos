@@ -1,0 +1,11 @@
+.input {
+  height: 30px;
+  width: 820px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+}
