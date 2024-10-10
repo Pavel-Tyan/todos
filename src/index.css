@@ -1,4 +1,8 @@
 :root {
+  --primary-color: #ffffff;
+  --secondary-color: #0b79e8;
+  --green: #77eca8;
+  --hover: #41bce9;
 }
 
 * {
